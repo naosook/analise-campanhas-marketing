@@ -10,7 +10,7 @@ Investigar se variáveis como canal de divulgação, tipo de campanha, investime
 
 ## 📊 Dashboard
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](imagens)
 
 ---
 
