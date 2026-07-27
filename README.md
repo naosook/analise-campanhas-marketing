@@ -10,7 +10,7 @@ Investigar se variáveis como canal de divulgação, tipo de campanha, investime
 
 ## 📊 Dashboard
 
-![Dashboard](analise-campanhas-marketing/imagens/) 
+![Dashboard](analise-campanhas-marketing/imagens/marketing-analytics-dashboard.png) 
 
 ---
 
