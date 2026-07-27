@@ -101,7 +101,7 @@ Em ambos os casos, as correlações encontradas foram praticamente nulas.
 
 ## Dashboard
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](imagens/marketing-analytics-dashboard.png)
 
 O dashboard consolida visualmente os principais indicadores e resultados da análise exploratória.
 
@@ -177,7 +177,7 @@ A ausência de relações significativas não representa uma falha da análise. 
 ## 📂 Estrutura do Projeto
 
 ```
-📦 analise-campanhas-marketing
+  analise-campanhas-marketing
 ├── dados/
 ├── dashboard/
 ├── imagens/
